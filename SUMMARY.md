@@ -2,10 +2,10 @@
 
 * [欢迎来到THTserver!😘🌹](README.md)
 
-## The Company
+## 指令帮助 <a href="#command-help" id="command-help"></a>
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Vision and Values](command-help/vision-and-values.md)
+* [Meet the Team!](command-help/meet-the-team.md)
 
 ## The Formal Stuff
 

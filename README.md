@@ -1,5 +1,6 @@
 ---
 description: 这是服务器的官方wiki
+cover: .gitbook/assets/2022-07-29_13.03.49.png
 coverY: 0
 ---
 
